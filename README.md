@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Dhumal</h1>
 <h3 align="center">A passionate learner and tech-enthusiast</h3>
-<img align="right"alt="Coding"width="300"src="![image](https://user-images.githubusercontent.com/114724295/232223198-899cf9d8-2440-4ccd-bfde-bb4570ba5c56.png)">
+<img align="right"alt="Coding"width="300"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 💬 Ask me about **React, Kotlin and Python💻⚙**
 
