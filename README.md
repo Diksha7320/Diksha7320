@@ -2,11 +2,11 @@
 <h3 align="center">A passionate learner and tech-enthusiast</h3>
 <img align="right"alt="Coding"width="300"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 Ask me about: ** React, Kotlin and Python💻⚙**
+- 💬 Ask me about: **React, Kotlin and Python💻⚙**
 
-- 📫 How to reach me? ** rudradiksha2073@gmail.com**
+- 📫 How to reach me? **rudradiksha2073@gmail.com**
 
-- ⚡ Fun fact: ** I like sketching and cooking at times;)**
+- ⚡ Fun fact: **I like sketching and cooking at times;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
