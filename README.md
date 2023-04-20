@@ -2,10 +2,6 @@
 <h3 align="center">A passionate learner and tech-enthusiast</h3>
 <img align="right"alt="Coding"width="300"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha7320" alt="diksha7320" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dikshadhumal20" target="blank"><img src="https://img.shields.io/twitter/follow/dikshadhumal20?logo=twitter&style=for-the-badge" alt="dikshadhumal20" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://diksha7320.github.io/my-portfolio/](https://diksha7320.github.io/my-portfolio/)
